@@ -154,3 +154,23 @@ Cloud storage integration
 
 Performance metrics tracking
 
+## Screenshots
+
+
+
+\### UI
+
+!\[UI](assets/ui.png)
+
+
+
+\### Generated Campaign Output
+
+!\[Campaign](assets/campaign\_output.png)
+
+
+
+\### Experiment Logging
+
+!\[Logs](assets/logs.png)
+
